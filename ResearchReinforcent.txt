@@ -1,0 +1,134 @@
+*Technical Indicators*
+
+1. *Moving Averages*
+
+   - Simple Moving Average (SMA)
+   - Exponential Moving Average (EMA)
+   - Weighted Moving Average (WMA)
+   - Hull Moving Average (HMA)
+
+2. *Volume-Based Indicators*
+
+   - Volume
+   - Volume Weighted Average Price (VWAP)
+   - On-Balance Volume (OBV)
+   - Chaikin Money Flow (CMF)
+   - Accumulation/Distribution Line (A/D Line)
+   - Volume Oscillator
+
+3. *Momentum Indicators*
+
+   - Relative Strength Index (RSI)
+   - Moving Average Convergence Divergence (MACD)
+   - Rate of Change (ROC)
+   - Stochastic Oscillator
+   - Average Directional Index (ADX)
+   - Commodity Channel Index (CCI)
+   - Momentum Indicator
+
+4. *Volatility Indicators*
+
+   - Bollinger Bands
+   - Average True Range (ATR)
+   - Keltner Channels
+   - Donchian Channels
+   - Volatility Index (VIX)
+   - Chaikin Volatility
+
+5. *Trend Indicators*
+
+   - Parabolic SAR
+   - SuperTrend
+   - Ichimoku Cloud
+   - Aroon Indicator
+   - Detrended Price Oscillator (DPO)
+
+6. *Price Patterns*
+
+   - Support and Resistance Levels
+   - Candlestick Patterns (e.g., Doji, Hammer, Engulfing)
+   - Chart Patterns (e.g., Head and Shoulders, Double Top/Bottom)
+
+7. *Market Breadth Indicators*
+
+   - Advance/Decline Line
+   - McClellan Oscillator
+   - McClellan Summation Index
+   - TRIN (Arms Index)
+
+8. *Moving Average Crossovers*
+
+   - Golden Cross
+   - Death Cross
+
+9. *Fibonacci Tools*
+
+   - Fibonacci Retracement
+   - Fibonacci Extension
+
+*Sentiment Indicators*
+
+1. *Put/Call Ratio*
+2. *Short Interest Ratio*
+3. *Consumer Confidence Index (CCI)*
+4. *Bullish Percent Index (BPI)*
+5. *Commitment of Traders (COT) Report*
+
+*Market Conditions*
+
+1. *Market Regime (Bull/Bear Market)*
+2. *Market Open/Close Gaps*
+3. *Economic Indicators (GDP, Unemployment Rates)*
+4. *Interest Rates*
+5. *Inflation Rates*
+6. *Currency Exchange Rates*
+7. *Earnings Reports*
+8. *News Sentiment Analysis*
+9. *Geopolitical Events*
+
+*Statistical Tools*
+1. *Correlation Coefficients*
+2. *Regression Analysis*
+3. *Mean Reversion*
+4. *Z-Score*
+5. *Sharpe Ratio*
+6. *Sortino Ratio*
+7. *Beta*
+8. *Alpha*
+
+*Time-Based Filters*
+1. *Time of Day (e.g., Opening, Closing)*
+2. *Day of Week*
+3. *Month/Seasonality*
+4. *Holidays*
+5. *Market Hours*
+
+*Risk Management*
+
+1. *Stop-Loss Orders*
+2. *Take-Profit Orders*
+3. *Position Sizing*
+4. *Max Drawdown Limits*
+5. *Trailing Stop-Loss*
+
+*Advanced Techniques*
+
+1. *Machine Learning Models (e.g., SVM, Random Forest)*
+2. *Sentiment Analysis from Social Media*
+3. *Event-Driven Algorithms*
+4. *Pairs Trading*
+5. *Arbitrage Opportunities*
+6. *High-Frequency Trading (HFT) Techniques*
+
+*External Factors*
+
+1. *Global Market Correlations (e.g., US Market Influence on Other Markets)*
+2. *Commodity Prices (e.g., Oil, Gold)*
+3. *Sectoral Indices (e.g., Tech, Healthcare)*
+
+*Backtesting and Optimization*
+
+1. *Historical Data Analysis*
+2. *Walk-Forward Optimization*
+3. *Monte Carlo Simulations*
+4. *Risk-Adjusted Return Metrics*
